@@ -1,4 +1,7 @@
 #include "Restaurant.h"
+#include <iostream>
+#include <string>
+#include <vector>
 
 Restaurant::Restaurant() {}
 

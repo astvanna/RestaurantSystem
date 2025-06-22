@@ -1,4 +1,5 @@
 #include "Order.h"
+#include <iostream>
 
 Order::Order(const Customer* customer) : customer(customer), totalPrice(0) {}
 

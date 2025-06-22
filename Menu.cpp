@@ -1,5 +1,9 @@
 #include "Menu.h"
+#include "Appetizer.h"
+#include "Entree.h"
+#include "Dessert.h"
 #include <iostream>
+#include <vector>
 
 // Default constructor
 Menu::Menu() {}
